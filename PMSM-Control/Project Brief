@@ -1,0 +1,27 @@
+# PMSM V/f Control
+
+**Project Type:** Engineering / Motor Control Project
+**Focus:** Permanent Magnet Synchronous Motor Modelling and V/f Control
+
+## Project Overview
+
+This project focused on the **modelling and control of a Permanent Magnet Synchronous Motor (PMSM)** using a Variable Frequency (V/f) control approach. The project explored how the applied voltage and electrical frequency influence the motor's operating speed and overall behaviour.
+
+The work involved developing and analysing the PMSM model, applying the V/f control strategy, and observing the motor's response under different operating conditions. This provided an opportunity to connect theoretical concepts from electrical machines and control systems with practical simulation-based analysis.
+
+## Engineering Skills Developed
+
+* PMSM modelling
+* Variable Frequency (V/f) control
+* Electrical machine analysis
+* Motor speed control
+* Understanding voltage and frequency relationships
+* Simulation and analysis of motor behaviour
+* Control-system fundamentals
+* Troubleshooting and interpreting simulation results
+
+## Project Outcome
+
+The project strengthened my understanding of **PMSM operation and motor-control techniques**, particularly the relationship between voltage, frequency and motor speed. It also developed my ability to model an electrical machine and evaluate its behaviour using simulation tools.
+
+**Project Files:** No files are available for this project. The project is documented through this brief as a record of the work and knowledge gained.
